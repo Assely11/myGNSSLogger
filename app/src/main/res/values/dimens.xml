@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textView_hieght">70dp</dimen>
+    <dimen name="textView_size">25sp</dimen>
+    <dimen name="margin_top">20dp</dimen>
+    <dimen name="combinedSize">300dp</dimen>
+    <dimen name="textView_Margin_lr">5dp</dimen>
+    <dimen name="headMargin">20dp</dimen>
+    <dimen name="childTextSize">12sp</dimen>
+    <dimen name="myTextPadding">10dp</dimen>
+    <dimen name="myCustomTextPadding">10dp</dimen>
+    <dimen name="customTextSize">12sp</dimen><!--18sp-->
+    <dimen name="measurChildTopMange">10dp</dimen>
+    <dimen name="margin_bottom">10dp</dimen>
+    <dimen name="renix_child_view_height">200dp</dimen>
+    <dimen name="renix_padding">10dp</dimen>
+</resources>

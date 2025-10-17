@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NewGnssInfCollector</string>
+    <string name="text1">卫星云图</string>
+    <string name="text2">卫星列表</string>
+    <string name="begin_record">Begin Record</string>
+    <string name="stop_record">Stop Record</string>
+    <string name="LXC">伪卫星</string>
+    <string name="AGPS">Renix AGPS</string>
+</resources>

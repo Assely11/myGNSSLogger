@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    switch (position) {-->
+<!--    //                    case 0:-->
+<!--    //                        MyGnssValue.NOW_CONSTELLATION = GnssStatus.CONSTELLATION_GPS;-->
+<!--    //                        break;-->
+<!--    //                    case 1:-->
+<!--    //                        MyGnssValue.NOW_CONSTELLATION = GnssStatus.CONSTELLATION_BEIDOU;-->
+<!--    //                        break;-->
+<!--    //                    case 2:-->
+<!--    //                        MyGnssValue.NOW_CONSTELLATION = GnssStatus.CONSTELLATION_GALILEO;-->
+<!--    //                        break;-->
+<!--    //                    case 3:-->
+<!--    //                        MyGnssValue.NOW_CONSTELLATION = GnssStatus.CONSTELLATION_GLONASS;-->
+<!--    //                        break;-->
+<!--    //                    case 4:-->
+<!--    //                        MyGnssValue.NOW_CONSTELLATION = GnssStatus.CONSTELLATION_IRNSS;-->
+<!--    //                        break;-->
+<!--    //                    case 5:-->
+<!--    //                        MyGnssValue.NOW_CONSTELLATION = GnssStatus.CONSTELLATION_QZSS;-->
+<!--    //                        break;-->
+<!--    //                    case 6:-->
+<!--    //                        MyGnssValue.NOW_CONSTELLATION = GnssStatus.CONSTELLATION_SBAS;-->
+<!--    //                        break;-->
+<!--    //                    case 7:-->
+<!--    //                        MyGnssValue.NOW_CONSTELLATION = MyGnssValue.CONSTELLATION_ALL;-->
+<!--    //                        break;-->
+<!--    //                    default:-->
+<!--    //                        break;-->
+<!--    //                }-->
+    <string-array name="spinner">
+        <item>GPS</item>
+        <item>BeiDou</item>
+        <item>GALILEO</item>
+        <item>GLONASS</item>
+        <item>IRNSS</item>
+        <item>QZSS</item>
+        <item>SBAS</item>
+        <item>ALL</item>
+    </string-array>
+</resources>
