@@ -1,0 +1,188 @@
+<!--<?xml version="1.0" encoding="utf-8"?>-->
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Renix">
+    <LinearLayout
+        android:background="@color/white"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:textColor="@color/white"
+            android:background="@drawable/mybutton"
+            android:layout_marginHorizontal="@dimen/margin_top"
+            android:layout_marginTop="@dimen/margin_top"
+            android:id="@+id/save_renix_button"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:text="Begin Record"
+            android:gravity="center" />
+        <ScrollView
+            android:visibility="gone"
+            android:layout_marginTop="@dimen/margin_top"
+            android:id="@+id/renix_navigation"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="@dimen/margin_top"
+                    android:layout_marginVertical="@dimen/margin_top"
+                    android:background="@drawable/renix_title"
+                    android:gravity="center"
+                    android:text="GPS Navigation"
+                    android:textColor="@color/white" />
+
+                <TextView
+                    android:id="@+id/m_gps_navigation"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="@dimen/margin_top"
+                    android:background="@drawable/my_textview"
+                    android:padding="@dimen/renix_padding"
+                    android:textColor="@color/textColor" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="@dimen/margin_top"
+                    android:layout_marginVertical="@dimen/margin_top"
+                    android:background="@drawable/renix_title"
+                    android:gravity="center"
+                    android:text="BeiDou Navigation"
+                    android:textColor="@color/white" />
+
+                <TextView
+                    android:id="@+id/m_bd_navigation"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="@dimen/margin_top"
+                    android:background="@drawable/my_textview"
+                    android:padding="@dimen/renix_padding"
+                    android:textColor="@color/textColor" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="@dimen/margin_top"
+                    android:layout_marginVertical="@dimen/margin_top"
+                    android:background="@drawable/renix_title"
+                    android:gravity="center"
+                    android:text="SP3 Navigation"
+                    android:textColor="@color/white" />
+
+                <TextView
+                    android:id="@+id/m_sp3_navigation"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="@dimen/margin_top"
+                    android:background="@drawable/my_textview"
+                    android:padding="@dimen/renix_padding"
+                    android:textColor="@color/textColor" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp" />
+            </LinearLayout>
+        </ScrollView>
+
+        <ScrollView
+            android:id="@+id/observeView"
+            android:layout_marginTop="@dimen/margin_top"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="@dimen/margin_top"
+                    android:layout_marginVertical="@dimen/margin_top"
+                    android:background="@drawable/renix_title"
+                    android:gravity="center"
+                    android:text="Position"
+                    android:textColor="@color/white" />
+                <TextView
+                    android:id="@+id/m_position"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="@dimen/margin_top"
+                    android:background="@drawable/my_textview"
+                    android:padding="@dimen/renix_padding"
+                    android:textColor="@color/textColor" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="@dimen/margin_top"
+                    android:layout_marginVertical="@dimen/margin_top"
+                    android:background="@drawable/renix_title"
+                    android:gravity="center"
+                    android:text="NMEA"
+                    android:textColor="@color/white" />
+                <TextView
+                    android:id="@+id/m_nmea"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="@dimen/margin_top"
+                    android:background="@drawable/my_textview"
+                    android:padding="@dimen/renix_padding"
+                    android:textColor="@color/textColor" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="@dimen/margin_top"
+                    android:layout_marginVertical="@dimen/margin_top"
+                    android:background="@drawable/renix_title"
+                    android:gravity="center"
+                    android:text="Observe"
+                    android:textColor="@color/white" />
+                <TextView
+                    android:id="@+id/m_observe"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="@dimen/margin_top"
+                    android:background="@drawable/my_textview"
+                    android:padding="@dimen/renix_padding"
+                    android:textColor="@color/textColor" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp" />
+            </LinearLayout>
+        </ScrollView>
+
+    </LinearLayout>
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/tab_renix"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginBottom="0dp"
+        app:layout_constraintBottom_toBottomOf="parent">
+
+        <com.google.android.material.tabs.TabItem
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Navigation" />
+
+        <com.google.android.material.tabs.TabItem
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="Observe" />
+    </com.google.android.material.tabs.TabLayout>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

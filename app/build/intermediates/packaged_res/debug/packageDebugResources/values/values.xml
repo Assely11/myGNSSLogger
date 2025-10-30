@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner">
+        <item>GPS</item>
+        <item>BeiDou</item>
+        <item>GALILEO</item>
+        <item>GLONASS</item>
+        <item>IRNSS</item>
+        <item>QZSS</item>
+        <item>SBAS</item>
+        <item>ALL</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="text">#646464</color>
+    <color name="textColor">#FF9900</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="childTextSize">12sp</dimen>
+    <dimen name="combinedSize">300dp</dimen>
+    <dimen name="customTextSize">12sp</dimen>
+    <dimen name="headMargin">20dp</dimen>
+    <dimen name="margin_bottom">10dp</dimen>
+    <dimen name="margin_top">20dp</dimen>
+    <dimen name="measurChildTopMange">10dp</dimen>
+    <dimen name="myCustomTextPadding">10dp</dimen>
+    <dimen name="myTextPadding">10dp</dimen>
+    <dimen name="renix_child_view_height">200dp</dimen>
+    <dimen name="renix_padding">10dp</dimen>
+    <dimen name="textView_Margin_lr">5dp</dimen>
+    <dimen name="textView_hieght">70dp</dimen>
+    <dimen name="textView_size">25sp</dimen>
+    <string name="AGPS">Renix AGPS</string>
+    <string name="LXC">伪卫星</string>
+    <string name="app_name">NewGnssInfCollector</string>
+    <string name="begin_record">Begin Record</string>
+    <string name="stop_record">Stop Record</string>
+    <string name="text1">卫星云图</string>
+    <string name="text2">卫星列表</string>
+    <style name="Base.Theme.NewGPSCollector" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.NewGPSCollector" parent="Base.Theme.NewGPSCollector"/>
+</resources>

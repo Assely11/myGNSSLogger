@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--<item android:title="Home" android:id="@+id/Home"></item>-->
+    <item android:title="@string/LXC" android:id="@+id/LXC"/>
+    <item android:title="@string/AGPS" android:id="@+id/AGPS"/>
+    <!--<item android:title="email:3478795461@qq.com"/>-->
+</menu>

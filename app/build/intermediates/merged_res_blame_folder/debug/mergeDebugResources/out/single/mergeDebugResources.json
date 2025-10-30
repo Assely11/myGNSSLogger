@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "com.example.newgpscollector.app-debug-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.newgpscollector.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.newgpscollector.app-debug-31:/layout_activity_renix.xml.flat",
+        "source": "com.example.newgpscollector.app-main-33:/layout/activity_renix.xml"
+    },
+    {
+        "merged": "com.example.newgpscollector.app-debug-31:/drawable_mybutton.xml.flat",
+        "source": "com.example.newgpscollector.app-main-33:/drawable/mybutton.xml"
+    },
+    {
+        "merged": "com.example.newgpscollector.app-debug-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.newgpscollector.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.newgpscollector.app-debug-31:/drawable_my_textview.xml.flat",
+        "source": "com.example.newgpscollector.app-main-33:/drawable/my_textview.xml"
+    },
+    {
+        "merged": "com.example.newgpscollector.app-debug-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.newgpscollector.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.newgpscollector.app-debug-31:/drawable_measurechild.xml.flat",
+        "source": "com.example.newgpscollector.app-main-33:/drawable/measurechild.xml"
+    },
+    {
+        "merged": "com.example.newgpscollector.app-debug-31:/drawable_tolocation.png.flat",
+        "source": "com.example.newgpscollector.app-main-33:/drawable/tolocation.png"
+    },
+    {
+        "merged": "com.example.newgpscollector.app-debug-31:/layout_activity_main2.xml.flat",
+        "source": "com.example.newgpscollector.app-main-33:/layout/activity_main2.xml"
+    },
+    {
+        "merged": "com.example.newgpscollector.app-debug-31:/drawable_download.png.flat",
+        "source": "com.example.newgpscollector.app-main-33:/drawable/download.png"
+    },
+    {
+        "merged": "com.example.newgpscollector.app-debug-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.newgpscollector.app-main-33:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.newgpscollector.app-debug-31:/xml_backup_rules.xml.flat",
+        "source": "com.example.newgpscollector.app-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.newgpscollector.app-debug-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.newgpscollector.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.newgpscollector.app-debug-31:/drawable_measurechild1.xml.flat",
+        "source": "com.example.newgpscollector.app-main-33:/drawable/measurechild1.xml"
+    },
+    {
+        "merged": "com.example.newgpscollector.app-debug-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.newgpscollector.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.newgpscollector.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "com.example.newgpscollector.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.newgpscollector.app-debug-31:/drawable_baidumaptextview.xml.flat",
+        "source": "com.example.newgpscollector.app-main-33:/drawable/baidumaptextview.xml"
+    },
+    {
+        "merged": "com.example.newgpscollector.app-debug-31:/drawable_renix_title.xml.flat",
+        "source": "com.example.newgpscollector.app-main-33:/drawable/renix_title.xml"
+    },
+    {
+        "merged": "com.example.newgpscollector.app-debug-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.newgpscollector.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.newgpscollector.app-debug-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.newgpscollector.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.newgpscollector.app-debug-31:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.newgpscollector.app-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.newgpscollector.app-debug-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.newgpscollector.app-main-33:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.newgpscollector.app-debug-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.newgpscollector.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.newgpscollector.app-debug-31:/drawable_statellitechild.xml.flat",
+        "source": "com.example.newgpscollector.app-main-33:/drawable/statellitechild.xml"
+    },
+    {
+        "merged": "com.example.newgpscollector.app-debug-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.newgpscollector.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.newgpscollector.app-debug-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.newgpscollector.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.newgpscollector.app-debug-31:/drawable_statellitechild2.xml.flat",
+        "source": "com.example.newgpscollector.app-main-33:/drawable/statellitechild2.xml"
+    },
+    {
+        "merged": "com.example.newgpscollector.app-debug-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.newgpscollector.app-main-33:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.newgpscollector.app-debug-31:/menu_menu_main.xml.flat",
+        "source": "com.example.newgpscollector.app-main-33:/menu/menu_main.xml"
+    },
+    {
+        "merged": "com.example.newgpscollector.app-debug-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.newgpscollector.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
+    }
+]
